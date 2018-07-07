@@ -14,7 +14,7 @@ function logWhisper(arg4) {
   console.log (arg4.toLowerCase())
 }
 
-function sayHiToGrandma(arg5) {
+function sayHiToGrandma(arg) {
   let lowercase = arg5.toLowerCase()
   let uppercase = arg5.toUpperCase()
   let mixedcase = arg5
